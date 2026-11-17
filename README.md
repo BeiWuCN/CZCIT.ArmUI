@@ -7,3 +7,6 @@
 - [下载 Unity 包](https://github.com/BeiWuCN/CZCIT.ArmUI/releases/tag/26.11.17)
 - [详细使用教程](Assets/CZCIT%20Arm%20UI/README.md)
 - [MIT 许可](LICENSE)
+## 效果演示
+
+![ArmUI 操作演示](Docs/Previews/arm-ui-demo.gif)
