@@ -1,4 +1,7 @@
-*.shader linguist-language=HLSL
-*.shader linguist-detectable=true
 *.meta linguist-detectable=false
 *.asmdef linguist-detectable=false
+*.shader linguist-language=ShaderLab
+*.shader linguist-detectable=true
+*.hlsl linguist-language=HLSL
+*.cginc linguist-language=Cg
+*.cginc linguist-detectable=true
